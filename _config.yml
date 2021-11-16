@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : #"Angela Lai"
 title_separator          : "-"
-name                     : #&name "Angela Lai"
+name                     : &name "Angela Lai"
 description              : &description ""
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://angelaight.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "angelaight/angelaight.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ author:
   name             : "Angela Lai"
   avatar           : #"profile.png"
   bio              : "Data science Ph.D. student"
-  location         : "New York University"
+  location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/angela-lai/"
+  linkedin         : "angela-lai/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
